@@ -1,4 +1,4 @@
-# django-todo
+# Objective- Created CI/CD Pipelines of web application using Docker, Jenkins and AWS - Application: django-todo
 
 A simple todo app built with django
 

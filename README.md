@@ -25,6 +25,8 @@ This setup utilizes AWS EC2 for deployment, Docker for containerization, and Jen
 This project involves several critical steps and commands beyond the major points listed, such as configuring environment variables, setting up Jenkins credentials, managing Docker permissions, handling security configurations, and fine-tuning deployment scripts, all of which are essential to successfully automate and deploy the Django application via the CI/CD pipeline.
 ##
 
+"In addition to this project, I have experience working with various other DevOps tools that enhance the automation, integration, and deployment processes, ensuring a smoother workflow and efficient management of CI/CD pipelines."
+
 A simple todo app built with django
 
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
